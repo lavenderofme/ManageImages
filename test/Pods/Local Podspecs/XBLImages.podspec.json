@@ -1,0 +1,20 @@
+{
+  "name": "XBLImages",
+  "version": "1.0.0",
+  "summary": "图片资源",
+  "description": "图片资源",
+  "homepage": "http://www.iddev.cn",
+  "license": "XLS",
+  "authors": {
+    "gupeng": "peng.gu@owitho.com"
+  },
+  "source": {
+    "git": "http://www.iddev.cn",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h,m}"
+}

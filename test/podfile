@@ -1,0 +1,6 @@
+platform:ios,'8.0'
+target 'test' do
+
+pod 'XBLImages',        :path => './test/Components/XBLImages', :inhibit_warnings => false
+
+end

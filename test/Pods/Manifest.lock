@@ -1,0 +1,16 @@
+PODS:
+  - XBLImages (1.0.0)
+
+DEPENDENCIES:
+  - XBLImages (from `./test/Components/XBLImages`)
+
+EXTERNAL SOURCES:
+  XBLImages:
+    :path: "./test/Components/XBLImages"
+
+SPEC CHECKSUMS:
+  XBLImages: 2c54425fb94cf100a1298115db28b584d90ed8b8
+
+PODFILE CHECKSUM: 08366128d7eb64bce37097c2937b12af3630227b
+
+COCOAPODS: 1.6.0.beta.2
